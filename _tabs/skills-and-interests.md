@@ -2,6 +2,8 @@
 layout: default
 icon: fas fa-bullseye
 order: 1
+title: Skills & Interests
+permalink: /skills-and-interests/
 ---
 
 

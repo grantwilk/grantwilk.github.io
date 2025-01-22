@@ -2,6 +2,7 @@
 layout: default
 icon: fas fa-book
 order: 3
+title: My Story
 ---
 
 # My Story
