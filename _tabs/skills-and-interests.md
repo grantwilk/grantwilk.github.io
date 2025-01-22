@@ -43,7 +43,7 @@ permalink: /skills-and-interests/
         <h4>Engineering</h4>
         <ul>
             <li><b>Aviation:</b> human flight, UAS (drones), eVTOL, sensors, simulation</li>
-            <li><b>Electronics:</b> PCB design & fabrication, digital hardware, firmware, RTOS, baremetal</li>
+            <li><b>Electronics:</b> digital hardware, PCB design and fabrication, firmware, RTOS, baremetal</li>
             <li><b>Graphics:</b> Game engines, AR/VR, 2D/3D raster, ray/path tracing, image processing</li>
             <li><b>User Interfaces:</b> UI/UX, data visualization</li>
             <li><b>Mechanical:</b> 3D CAD, 3D printing, metal fabrication</li>
@@ -52,9 +52,9 @@ permalink: /skills-and-interests/
         <h4>Interpersonal</h4>
         <ul>
             <li><b>Servant leadership:</b> Managing and directing small teams with a "how can I help help you" mindset</li>
-            <li><b>Product development: </b> Building new ideas and half-developed prototypes into polished products</li>
-            <li><b>Mentorship:</b> Working closely with new engineer to guide and ensure their endeavours toward success</li>
-            <li><b>Teaching:</b> Developing and producing cirriculums, in person or online, to share critical knowledge</li>
+            <li><b>Productization: </b> Developing novel ideas and early prototypes into polished products</li>
+            <li><b>Mentorship:</b> Working closely new engineers to guide and ensure their endeavors toward success</li>
+            <li><b>Teaching:</b> Developing and producing in-person and online cirricula and coursework</li>
         </ul>
         <h4>Other</h4>
         <ul>
