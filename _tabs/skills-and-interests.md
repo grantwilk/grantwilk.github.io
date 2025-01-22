@@ -52,7 +52,7 @@ permalink: /skills-and-interests/
         <h4>Interpersonal</h4>
         <ul>
             <li><b>Servant leadership:</b> Managing and directing small teams with a "how can I help help you" mindset</li>
-            <li><b>Productization: </b> Developing novel ideas and early prototypes into polished products</li>
+            <li><b>Productization: </b> Turning novel ideas and early prototypes into polished products</li>
             <li><b>Mentorship:</b> Working closely new engineers to guide and ensure their endeavors toward success</li>
             <li><b>Teaching:</b> Developing and producing in-person and online cirricula and coursework</li>
         </ul>
