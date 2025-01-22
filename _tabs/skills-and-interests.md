@@ -25,7 +25,7 @@ permalink: /skills-and-interests/
         <h4>Hardware</h4>
         <ul>
             <li><b>Architectures:</b> ARM, x86, RISCV</li>
-            <li><b>Mircocontrollers:</b> STM32, ESP32</li>
+            <li><b>Microcontrollers:</b> STM32, ESP32</li>
             <li><b>SoCs:</b> NVIDIA Jetson, Raspberry Pi</li>
             <li><b>Flight Controllers:</b> Pixhawk, F7, H7</li>
             <li><b>Radios:</b> Microhard, Doodle Labs</li>
