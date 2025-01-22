@@ -60,7 +60,7 @@ permalink: /skills-and-interests/
         <ul>
             <li><b>Outdoors:</b> Backpacking, skiing, surfing, scuba diving, climbing, bushcraft survival</li>
             <li><b>Natural Sciences:</b> Geology, paleontology, natural history, oceanography, conservation</li>
-            <li><b>Medicine:</b> Congenital heart disease, nervous system, pharmaceuticals</li>
+            <li><b>Medicine:</b> Congenital heart disease, nervous system, microbiology</li>
         </ul>
     </div>
 </div>
