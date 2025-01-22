@@ -4,11 +4,9 @@ icon: fas fa-book
 order: 3
 ---
 
-# About Me
+# My Story
 
 Hi, I'm Grant! I'm a System Software Engineer at NVIDIA with an affinity for entrepreneurship and working in startups. I specialize in firmware engineering, embedded hardware, computer graphics, and bringing brilliant ideas to life.
-
-## My Story
 
 The only way to predict the future is to build it yourself. This is a mantra I picked up when I first started my entrepreneurial journey at age 16. While most of my peers were busy wrangling part-time jobs, I chose to create something of my own, Remington Creative, a YouTube channel dedicated to teaching and exploring computer graphics.
 
