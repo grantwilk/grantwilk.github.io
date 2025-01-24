@@ -15,12 +15,7 @@ layout: compress
 <!-- `site.alt_lang` can specify a language different from the UI -->
 <html lang="{{ page.lang | default: site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
 
-  <head>
   {% include head.html %}
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-  <!-- or for PNG -->
-  <!-- <link rel="shortcut icon" type="image/png" href="/favicon.png"> -->
-  </head>
 
   <body>
     {% include sidebar.html lang=lang %}
