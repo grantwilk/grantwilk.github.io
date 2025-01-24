@@ -1,6 +1,6 @@
 ---
 title: Homemade EKG
-description: A surprise trip to the ER turns into a mission to capture heart arrhythmias at home.
+description: A surprise trip to the ER sparks a mission to capture heart arrhythmias at home.
 date: 2025-01-24 00:00:00 -0600
 image:
   path: /assets/img/posts/2025-01-24-homemade-ekg/homemade-ekg.jpg
