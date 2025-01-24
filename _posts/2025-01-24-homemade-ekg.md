@@ -7,7 +7,7 @@ image:
 tags: [hardware, signal processing, team]
 ---
 
-I had open-heart surgery at the age of two, so heart health has always been a significant part of my life. Recently, a sudden heart arrhythmia led me to the ER, only for my heart to revert to a normal sinus rhythm the moment I was hooked up to an EKG, which was both frustrating and expensive. This experience sparked my curiosity and inspired me to create a homemade EKG.
+I had open-heart surgery at the age of two, so heart health has always been a significant part of my life. Recently, a sudden heart arrhythmia sent me to the ER, only for my heart to revert to a normal sinus rhythm the moment I was hooked up to an EKG. This experience was frustrating and expensive, but it sparked my curiosity and inspired me to create a homemade EKG.
 
 The journey began with a USB oscilloscope and EKG pads from Amazon. With my friend Michael's help, we experimented with different electrode placements, trying to find the optimal configuration to detect a clear signal. The breakthrough came when we placed electrodes on the chest and foot, creating the highest potential difference we were capable of capturing while still using the body as a ground reference.
 
