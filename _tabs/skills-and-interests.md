@@ -1,7 +1,7 @@
 ---
 layout: default
 icon: fas fa-bullseye
-order: 1
+order: 2
 title: Skills & Interests
 permalink: /skills-and-interests/
 ---
