@@ -1,7 +1,7 @@
 ---
 title: Embedded Calculator
 description: A simple calculator that allows users to add, subtract, multiply, and divide numbers.
-date: 2020-02-01 00:00:00 +0600
+date: 2020-02-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2020-02-01-embedded-calculator/embedded-calculator.jpg
 ---
@@ -20,6 +20,10 @@ With the drivers constructed, I began implementing my calculator application. As
 
 When the user presses the equals key, the system parses the op string and runs operands through the appropriate operation. If the result of the calculation involves dividing by zero, overflows, or underflows, it will default to zero. Otherwise, the result will be calculated, printed to the LCD, and automatically re-inserted into the op string as the first operand for the next calculation.
 
+### Demo Video
+
+{% include embed/youtube.html id='c5m5CCOlb9k' %}
+
 ### Future Improvements
 
 As with all of my projects, there are a number of improvements that could be made. I've listed the most prominent ones below.
@@ -28,11 +32,3 @@ As with all of my projects, there are a number of improvements that could be mad
 - Display error messages for overflow/underflow/divide-by-zero errors instead of defaulting to 0
 - Enable the microcontroller's FPU and use floating point arithmetic instead of integer arithmetic
 - Allow the user to enter numbers up to 14 digits instead of limiting them at 9 digits
-
-### Conclusion
-
-Overall, this project gave me an excellent opportunity to practice using 
-
-- STMicro NUCLEO-F446RE Microcontroller (w/ ARM Cortex-M4)
-- Sitronix ST7066U Dot Matrix LCD Controller/Driver
-- AK-1604-N-BWB Switch Matrix Keypad

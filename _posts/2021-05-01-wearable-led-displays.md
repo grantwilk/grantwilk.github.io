@@ -1,7 +1,7 @@
 ---
 title: Wearable LED Displays
 description: A flexible, programmable, and animatable LED display technology for clothing.
-date: 2021-05-01 00:00:00 +0600
+date: 2021-05-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2021-05-01-wearable-led-displays/firmwear-paper-pcb-illuminated.jpg
 ---
@@ -48,7 +48,4 @@ Unfortunately, due to increasing workloads with school and a general lack of int
 
 Perhaps we'll return to FIRMWEAR in the future... only time will tell. Until then, check out these awesome demonstrations of the prototype technology in action!
 
-![https://grantwilk.com/wp-content/uploads/2021/05/Vid-20200817-225103-1.mp4](Default rainbow-cycle demonstration)
-![https://grantwilk.com/wp-content/uploads/2021/05/Pxl-20210311-040749764-1.mp4](Pac-Man multi-frame animation demonstration)
-![https://grantwilk.com/wp-content/uploads/2021/05/Pxl-20210321-181605460-1.mp4](Saint Patrick's Day multi-profile demonstration)
-![https://grantwilk.com/wp-content/uploads/2021/05/Pxl-20210205-200745627-1.mp4](Display programming via command-line application demonstration)
+{% include embed/youtube.html id='_JyMn0x1jrw' %}

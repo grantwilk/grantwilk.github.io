@@ -1,7 +1,7 @@
 ---
 title: 2D Drawing App
 description: A simple mouse-based 2D drawing application with save and load functionality.
-date: 2021-04-01 00:00:00 +0600
+date: 2021-04-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2021-04-01-2d-drawing-app/2d-drawing-app.jpg
 ---
@@ -12,4 +12,4 @@ As part of my Computer Graphics course, we learned all the tools necessary to cr
 
 I won't go into excessive detail with this project because I believe it's fairly straightforward, but I do think it's a neat creation! Here's a demo showing you what it's capable of:
 
-![](https://youtu.be/jMD9axweJM4)
+{% include embed/youtube.html id='jMD9axweJM4' %}

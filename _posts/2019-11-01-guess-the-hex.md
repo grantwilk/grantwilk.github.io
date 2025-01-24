@@ -1,7 +1,7 @@
 ---
 title: "Guess the Hex!"
 description: A fun Bop-It type game where you translate binary nibbles to hex!
-date: 2019-11-01 00:00:00 +0600
+date: 2019-11-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2019-11-01-guess-the-hex/guess-the-hex.jpg
 ---
@@ -26,6 +26,8 @@ The "Guess the Hex!" game should accomplish the following goals:
 8. Make some cute jingles that play at different phases of the game (e.g. startup, game start, speeding up)
 
 ### The Result
+
+{% include embed/youtube.html id='cGn6-KNdlOc' %}
 
 As nerdy as it might be, Guess the Hex wound up being a super intense and very competitive game. During my lab, many fellow students wound up challenging each other to competitions, attempting to set the new high score.
 
