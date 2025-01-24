@@ -4,6 +4,7 @@ description: A simple calculator that allows users to add, subtract, multiply, a
 date: 2020-02-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2020-02-01-embedded-calculator/embedded-calculator.jpg
+tags: [hardware, firmware]
 ---
 
 ### Problem Statement

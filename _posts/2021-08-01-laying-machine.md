@@ -4,6 +4,7 @@ description: A laying (rope-making) machine for making palm fiber cordage.
 date: 2021-08-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2021-08-01-laying-machine/laying-machine-thumbnail.jpg
+tags: [mechanical]
 ---
 
 I embarked on a bushcraft-inspired project to make rope from palm fiber. The challenge of hand-twisting fibers led me to design a laying (rope-making) machine. I envisioned a device that could feed bundles of palm fiber through gears, twisting them together in counter-rotating fashion, mimicking the traditional method but without the manual labor. Using Blender, I created and simulated the entire system.

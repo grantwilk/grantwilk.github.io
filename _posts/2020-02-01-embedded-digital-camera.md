@@ -4,6 +4,7 @@ description: A small digital camera that takes photos and saves them to an SD ca
 date: 2020-02-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2020-02-01-embedded-digital-camera/digital-camera.jpg
+tags: [hardware, firmware, graphics]
 ---
 
 For our final project in Embedded Systems II, we were given free reign to create just about anything we'd like, as long as it was related to what we were working on in class. I decided it would be a fun challenge to try and interface an OV7670 camera module and a microSD card with our provided microcontroller to try and create an embedded digital camera.

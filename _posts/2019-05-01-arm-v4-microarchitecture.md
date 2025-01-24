@@ -4,6 +4,7 @@ description: An FPGA implementation of the ARM v4 ISA using VHDL.
 date: 2019-05-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2019-05-01-arm-v4-microarchitecture/arm-v4-execute.jpg
+tags: [hardware, fpga]
 ---
 
 ### The Problem

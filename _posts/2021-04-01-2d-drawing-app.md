@@ -4,6 +4,7 @@ description: A simple mouse-based 2D drawing application with save and load func
 date: 2021-04-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2021-04-01-2d-drawing-app/2d-drawing-app.jpg
+tags: [software, graphics]
 ---
 
 A 2D drawing application implemented from scratch and compiled for Linux.

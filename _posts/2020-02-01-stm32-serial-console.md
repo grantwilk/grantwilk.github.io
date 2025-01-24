@@ -4,6 +4,7 @@ description: A serial console for STM32 MCUs with a set of basic commands for tr
 date: 2020-02-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2020-02-01-stm32-serial-console/stm32-serial-console.jpg
+tags: [firmware]
 ---
 
 Although ST offers an impressive set of bare-metal debugging tools for their microcontrollers, they are not fit for running diagnostics or being managed in the field. There needs to be a more user-friendly high-level debugging tool.

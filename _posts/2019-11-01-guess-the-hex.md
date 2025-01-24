@@ -4,6 +4,7 @@ description: A fun Bop-It type game where you translate binary nibbles to hex!
 date: 2019-11-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2019-11-01-guess-the-hex/guess-the-hex.jpg
+tags: [hardware, firmware]
 ---
 
 ### The Problem

@@ -4,6 +4,7 @@ description: A lightweight GUI app that generates 3D modeling subjects for my "C
 date: 2019-10-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2019-10-01-chaos-subject-generator/chaos-thumbnail.jpg
+tags: [software]
 ---
 
 ### The Problem
@@ -29,8 +30,6 @@ The Chaos Subject Generator should accomplish the following goals:
 ![](/assets/img/posts/2019-10-01-chaos-subject-generator/chaos-screenshot.jpg)
 _The Chaos Subject Generator's thin and minimal user interface._
 
----
-
 ### The Result (So Far...)
 
 Although it is not yet complete, the main functionality of the Chaos Subject Generator has been implemented and it has been used on my Chaos Modeling Challenge streams multiple times.
@@ -39,8 +38,6 @@ Unfortunately, my classwork and extra-curricular involvement impedes on the time
 
 ![](/assets/img/posts/2019-10-01-chaos-subject-generator/chaos-stream.jpg)
 _Using the Chaos Subject Generator live on stream to model a "Schizophrenic Diary" in 10 minutes._
-
----
 
 ### The Future
 

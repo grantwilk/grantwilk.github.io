@@ -4,6 +4,7 @@ description: A GUI application for creating and editing public transportation ro
 date: 2020-05-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2020-05-01-bus-route-editor\bus-route-editor-screenshot.jpg
+tags: [software]
 ---
 
 ### Software Tools and Practices Project

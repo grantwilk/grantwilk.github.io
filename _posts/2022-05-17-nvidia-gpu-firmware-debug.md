@@ -4,6 +4,7 @@ description: Our senior design project to implement step-through debugging for N
 date: 2022-05-17 00:00:00 -0600
 image:
   path: /assets/img/posts/2022-05-17-nvidia-gpu-firmware-debug/nvidia-gpu-firmware-debug.jpg
+tags: [software, firmware, emulation, team]
 ---
 
 Our MSOE senior design team had the tremendous opportunity to partner with NVIDIA's GPU Firmware (GFW) team to develop a step-through debugging system for their UEFI display firmware. I could write a lot here, but our three presentations (fall, winter, and spring) capture our progress the best:

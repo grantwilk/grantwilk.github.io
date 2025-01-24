@@ -4,6 +4,7 @@ description: A digital alarm clock with a custom designed, PCB and housing.
 date: 2020-11-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2020-11-01-digital-alarm-clock/clock-final-on.jpg
+tags: [hardware, mechanical]
 ---
 
 An embedded digital alarm clock with a custom engineered PCB and 3D printed chassis.

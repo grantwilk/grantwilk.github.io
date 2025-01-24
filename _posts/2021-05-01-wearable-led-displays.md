@@ -4,6 +4,7 @@ description: A flexible, programmable, and animatable LED display technology for
 date: 2021-05-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2021-05-01-wearable-led-displays/firmwear-paper-pcb-illuminated.jpg
+tags: [hardware, software, firmware graphics, team]
 ---
 
 An idea born out of the COVID-19 pandemic.
