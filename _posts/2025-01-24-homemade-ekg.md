@@ -15,13 +15,11 @@ The journey began with a USB oscilloscope and EKG pads from Amazon. With my frie
 
 However, the raw signals were incredibly noisy. Through research and experimentation, we implemented a fourth-order software bandpass filter between 300 mHz and 20 Hz, which drastically improved the clarity of the heartbeats. We also tried averaging multiple leads to further refine the signal, and while this provided a moderate improvement, it was the fine-tuned filter that truly made the difference.
 
-Once we perfected our filtration process, we were able to capture clear EKG footage for each of the standard 5-lead cardiac views. When I showed this data to my girlfriend, a cardiac RN, she was able to identify the PQRST waves, confirming the accuracy of our readings.
+Once we perfected our filtration process, we were able to capture clear EKG footage for each of the standard 5-lead cardiac views. When I showed this data to my girlfriend, a cardiac RN, she was able to identify my heart's PQRST waves, confirming the accuracy of our readings.
 
 {% include embed/youtube.html id='xNw-femFH9Q' %}
 
-The highlight of this project was capturing my arrhythmia, a set of Premature Atrial Contractions (PACs), which was confirmed a few days later by a medical-grade Holter monitor. This means that my crazy engineering endeavors were able to not only capture a moment that a hospital-grade machine missed, but also beat the medical system as a whole to an accurate diagnosis.
-
-Of course, my knowledge ends there, so I'm back in the hands of the American healthcare system. Lets hope I don't have to build any more DIY medical equipment!
+The highlight of this project was capturing my arrhythmia, a set of Premature Atrial Contractions (PACs), which was confirmed a few days later by a medical-grade Holter monitor. This means that I was able to capture a moment that a hospital-grade machine missed AND beat the medical system as a whole to an accurate diagnosis. How's that for a resume builder?
 
 ![](/assets/img/posts/2025-01-24-homemade-ekg/homemade-ekg-wave.jpg)
 _The PQRST waves labeled on our EKG reading._
