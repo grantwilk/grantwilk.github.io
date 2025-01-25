@@ -1,6 +1,6 @@
 ---
 title: Homemade EKG
-description: A surprise trip to the ER sparks a mission to capture heart arrhythmias at home.
+description: A surprise trip to the ER sparks a weeked mission to capture heart arrhythmias at home.
 date: 2025-01-24 00:00:00 -0600
 image:
   path: /assets/img/posts/2025-01-24-homemade-ekg/homemade-ekg.jpg
@@ -19,7 +19,7 @@ Once we perfected our filtration process, we were able to capture clear EKG foot
 
 {% include embed/youtube.html id='xNw-femFH9Q' %}
 
-The highlight of this project was capturing my arrhythmia, a set of Premature Atrial Contractions (PACs), which was confirmed a few days later by a medical-grade Holter monitor. This means that I was able to capture a moment that a hospital-grade machine missed AND beat the medical system as a whole to an accurate diagnosis. How's that for a resume builder?
+The highlight of this project was capturing my arrhythmia, a set of Premature Atrial Contractions (PACs), which was confirmed a few days later by a medical-grade Holter monitor. This means that **IN ONE WEEKEND** I was able to capture a moment that a hospital-grade machine missed AND beat the medical system as a whole to an accurate diagnosis! How's that for a resume builder?
 
 ![](/assets/img/posts/2025-01-24-homemade-ekg/homemade-ekg-wave.jpg)
 _The PQRST waves labeled on our EKG reading._
