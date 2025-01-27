@@ -47,7 +47,7 @@ Today, I'm a partial owner and technical leader of a startup that is revolutioni
 I was awarded the rank of Eagle Scout by Elburn Troop 7 for the completion of all Eagle Scout rank requirements, including the fundraising and construction of a $20,000 pole vault runway at my middle school.
 
 #### D-NOISE Featured at the Blender Conference (2019)
-My first software product, D-NOISE, was featured in Gleb Alexadrov's <a href="https://youtu.be/4w8_SBxCOxo?si=YxqXEzOE1L0qYHQo&t=1128" target="_blank">"3D Nebulae and the Power of the Blender Community"</a> presentation at the 2019 Blender Conference.
+My first software product, D-NOISE, was featured in Gleb Alexandrov's <a href="https://youtu.be/4w8_SBxCOxo?si=YxqXEzOE1L0qYHQo&t=1128" target="_blank">"3D Nebulae and the Power of the Blender Community"</a> presentation at the 2019 Blender Conference.
 
 #### BS Computer Engineering with High Honors (2022)
 I graduated from the Milwaukee School of Engineering in 2022 with a BS Computer Engineering and high honors for my academic performance.
