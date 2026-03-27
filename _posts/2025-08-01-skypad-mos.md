@@ -1,5 +1,5 @@
 ---
-title: Skypad: Mobile Optical System
+title: Skypad - Mobile Optical System
 description: Virtual cockpit, simulator, and real-time sharing for any vehicle.
 date: 2025-08-01 00:00:00 -0600
 image:
