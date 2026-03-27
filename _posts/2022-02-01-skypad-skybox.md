@@ -1,7 +1,7 @@
 ---
-title: Skypad - Skybox
+title: Skybox (Skypad)
 description: An embedded telemetry device designed to capture real-world data from any vehicle.
-date: 2025-02-01 00:00:00 -0600
+date: 2022-02-01 00:00:00 -0600
 image:
   path: /assets/img/posts/2022-02-01-skypad-skybox/skybox-in-housing.jpg
 tags: [hardware, firmware, esp32, jetson, team]
