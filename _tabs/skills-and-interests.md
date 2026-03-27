@@ -7,9 +7,9 @@ permalink: /skills-and-interests/
 ---
 
 
+<h1>Skills</h1>
 <div style="display: flex; gap: 1rem;">
     <div style="flex: 1;">
-        <h1>Skills</h1>
         <h4>Languages</h4>
         <span>C/C++, Python, Java, ARM ASM, Terraform, SQL</span>
         <h4>Software</h4>
@@ -22,6 +22,8 @@ permalink: /skills-and-interests/
             <li><b>Flight Stacks:</b> PX4, Ardupilot, Betaflight</li>
             <li><b>Other:</b> Grafana, Video Encoders/Decoders</li>
         </ul>
+    </div>
+    <div style="flex: 1;">
         <h4>Hardware</h4>
         <ul>
             <li><b>Architectures:</b> ARM, x86, RISCV</li>
@@ -38,8 +40,11 @@ permalink: /skills-and-interests/
             <li><b>Physical:</b> Ethernet, WiFi, Mesh Radios, P2P Radios</li>
         </ul>
     </div>
+</div>
+
+<h1>Interests</h1>
+<div style="display: flex; gap: 1rem;">
     <div style="flex: 1;">
-        <h1>Interests</h1>
         <h4>Engineering</h4>
         <ul>
             <li><b>Aviation:</b> human flight, UAS (drones), eVTOL, sensors, simulation</li>
@@ -49,6 +54,8 @@ permalink: /skills-and-interests/
             <li><b>Mechanical:</b> 3D CAD, 3D printing, metal fabrication</li>
             <li><b>Robotics:</b> Digital twins, reinforcement learning, sensors, SLAM</li>
         </ul>
+    </div>
+    <div style="flex: 1;">
         <h4>Interpersonal</h4>
         <ul>
             <li><b>Servant leadership:</b> Managing and directing small teams with a "how can I help help you" mindset</li>
