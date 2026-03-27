@@ -10,17 +10,17 @@ permalink: /skills-and-interests/
 <h1>Skills</h1>
 <div style="display: flex; gap: 1rem;">
     <div style="flex: 1;">
-        <h4>Languages</h4>
-        <span>C/C++, Python, Java, ARM ASM, Terraform, SQL</span>
         <h4>Software</h4>
         <ul>
-            <li><b>OS:</b> Windows, Linux (Ubuntu/Debian), Docker, WSL</li>
+            <li><b>Languages:</b> C/C++, Python, Java, ARM ASM, Terraform, SQL</li>
+            <li><b>OS:</b> Windows, Linux (Ubuntu/Debian), WSL</li>
             <li><b>Embedded:</b> ST CubeIDE, Espressif, NVIDIA Jetpack</li>
             <li><b>Cloud:</b> AWS, Google Cloud</li>
+            <li><b>Databases:</b> DynamoDB, Postgres, Prometheus, Tempo</li>
             <li><b>CI/CD:</b> Git, Perforce, Jenkins</li>
             <li><b>Game Engines:</b> Unreal Engine 5</li>
             <li><b>Flight Stacks:</b> PX4, Ardupilot, Betaflight</li>
-            <li><b>Other:</b> Grafana, Video Encoders/Decoders</li>
+            <li><b>Other:</b> Docker, Grafana, Video Encoders/Decoders</li>
         </ul>
     </div>
     <div style="flex: 1;">
@@ -31,13 +31,14 @@ permalink: /skills-and-interests/
             <li><b>SoCs:</b> NVIDIA Jetson, Raspberry Pi</li>
             <li><b>Flight Controllers:</b> Pixhawk, F7, H7</li>
             <li><b>Radios:</b> Microhard, Doodle Labs</li>
+            <li><b>Protocols:</b> SPI, I2C, UART, DShot, NMEA</li>
         </ul>
         <h4>Networking</h4>
         <ul>
             <li><b>Common:</b> TCP, UDP, HTTP/S</li>
             <li><b>Streaming:</b> WebRTC, RTSP, RTMP</li>
             <li><b>Robotics:</b> MQTT, MAVLink, ROS</li>
-            <li><b>Physical:</b> Ethernet, WiFi, Mesh Radios, P2P Radios</li>
+            <li><b>Physical:</b> Ethernet, WiFi, Bluetooth Low Energy (BLE), Mesh Radios, P2P Radios</li>
         </ul>
     </div>
 </div>
