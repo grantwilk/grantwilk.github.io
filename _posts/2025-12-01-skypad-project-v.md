@@ -3,7 +3,7 @@ title: Manned/Unmanned eVTOL Aircraft (Skypad)
 description: DARPA-funded project to develop a dual-purpose, optionally-manned, eVTOL aircraft.
 date: 2025-12-01 00:00:00 -0600
 image:
-  path: /assets/img/posts/2025-12-01-skypad-project-v/project-v-hexacopter.png
+  path: /assets/img/posts/2025-12-01-skypad-project-v/project-v-quad.png
 tags: [mechanical, hardware, firmware, software, aviation]
 ---
 
