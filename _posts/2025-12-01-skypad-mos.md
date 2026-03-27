@@ -1,9 +1,9 @@
 ---
-title: Skypad - Mobile Optical System
+title: Mobile Optical System (Skypad)
 description: Virtual cockpit, simulator, and real-time sharing for any vehicle.
-date: 2025-08-01 00:00:00 -0600
+date: 2025-12-01 00:00:00 -0600
 image:
-  path: /assets/img/posts/2025-08-01-skypad-mos/iron-man-selfie.jpg
+  path: /assets/img/posts/2025-12-01-skypad-mos/iron-man-selfie.jpg
 tags: [software, aviation, unreal, graphics]
 ---
 
@@ -27,7 +27,7 @@ From a technical standpoint, MOS is built on Unreal Engine to leverage its real-
 
 The primary challenge has been managing complexity—both in terms of Unreal Engine itself and the fragmented nature of vehicle communication systems. Different platforms expose telemetry and video in inconsistent ways, requiring adaptable integration strategies. Despite this, MOS has proven capable of interfacing with a wide range of systems, from drones to ground vehicles and even experimental platforms.
 
-![](/assets/img/posts/2025-08-01-skypad-mos/mos-moab.jpg)
+![](/assets/img/posts/2025-12-01-skypad-mos/mos-moab.png)
 _MOS flying in the desert of Moab, UT._
 
 What differentiates MOS is its perspective. Traditional ground control software focuses on configuration and command. MOS focuses on experience—creating a unified, immersive interface that scales across vehicle types and use cases. Whether operating a drone, a ground vehicle, or something entirely custom, the system treats them all as extensions of the same core idea: a cockpit without a physical frame.
