@@ -3,14 +3,13 @@ title: Manned/Unmanned eVTOL Aircraft (Skypad)
 description: DARPA-funded project to develop a dual-purpose, optionally-manned, eVTOL aircraft.
 date: 2025-12-01 00:00:00 -0600
 image:
-  path: /assets/img/posts/2025-12-01-skypad-project-v/project-v-hexacopter.jpg
+  path: /assets/img/posts/2025-12-01-skypad-project-v/project-v-hexacopter.png
 tags: [mechanical, hardware, firmware, software, aviation]
 ---
 
 Skypad's manned/unmanned eVTOL aircraft is an initiative to develop a dual-purpose electric vertical takeoff and landing (eVTOL) system capable of operating with or without a human pilot onboard. Backed by DARPA funding during its active phase, the project explored how a single platform could bridge the gap between traditional drones and fully manned aircraft—unlocking new capabilities in mobility, logistics, and mission flexibility.
 
 {% include embed/youtube.html id='CD70HsTUur8' %}
-_Prototype 1: Tethered hop testing._
 
 My role focused on system integration and early-stage flight development. I contributed to assembling multiple prototypes, integrating MOS hardware directly into the vehicle, and working on the flight control and electronics stack. This included hands-on involvement with flight controllers, ESCs, battery management systems, telemetry pipelines, and pilot control interfaces. I also participated in initial tuning and tethered flight tests as the system matured.
 
@@ -28,4 +27,3 @@ Although the project is currently paused following the conclusion of its initial
 This project represents an exploration into a new class of vehicles: systems that are not strictly drones or aircraft, but something in between—designed to extend human capability while maintaining the option for full autonomy.
 
 {% include embed/youtube.html id='AQwCscMUL2Y' %}
-_Prototype 3: Manned flight demo._
